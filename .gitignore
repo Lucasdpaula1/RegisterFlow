@@ -1,0 +1,5 @@
+.env
+!*.env.example
+secrets/
+.env.dev
+.env.prod
